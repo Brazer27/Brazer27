@@ -52,9 +52,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
-
-  
-  
   
 <table border="0" align="center">
 <tr border="0">
@@ -84,34 +81,32 @@
                                                                                     
 
 <br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Brazer27&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
+  <p align="center">
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Brazer27&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      </a>
+  </div>
+  </p>
 
 <br>
-
- <hr>
- 
- <br>
+<hr> 
+<br>
 
   <div align="center">
   <h3><b>😄 My Contact</b></h3>
   </div>
-<p align="center">
-<a href="www.linkedin.com/in/febryan-riyadi/" target="_blank">
-  <img align="center" alt="Sulthan Rafli | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/febryan_4123/" target="_blank">
-  <img align="center" alt="Sulthan Rafli | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:febryanriyadi03@gmail.com@gmail.com" >
-  <img align="center" alt="Sulthan Rafli | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<p>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/febryan-riyadi/" target="_blank">
+    <img align="center" alt="Febryan Riyadi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/febryan_4123/" target="_blank">
+    <img align="center" alt="Febryan Riyadi | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:febryanriyadi03@gmail.com">
+    <img align="center" alt="Febryan Riyadi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  </p>
   
 <br>
   
@@ -124,12 +119,10 @@
   <img src="https://profile-counter.glitch.me/Brazer27/count.svg" />  
 </p>
 
-
 ------
 
 [Febryan Riyadi](https://github.com/Brazer27)
 
 Last Edited on: 05/03/2025
-
 
 ------
