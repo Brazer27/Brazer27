@@ -70,7 +70,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SulthanRafli&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brazer27&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -99,20 +99,17 @@
  <br>
 
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b>😄 My Contact</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/sulthan-rafli/" target="_blank">
+<a href="www.linkedin.com/in/febryan-riyadi-2705n412" target="_blank">
   <img align="center" alt="Sulthan Rafli | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/sulthanrafli/" target="_blank">
+<a href="https://www.instagram.com/febryan_4123/" target="_blank">
   <img align="center" alt="Sulthan Rafli | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:msulthanraflim@gmail.com" >
+<a href="mailto:febryanriyadi03@gmail.com@gmail.com" >
   <img align="center" alt="Sulthan Rafli | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/rm.sulthan/">
-    <img align="center" alt="Sulthan Rafli | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
   
