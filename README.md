@@ -102,7 +102,7 @@
   <h3><b>😄 My Contact</b></h3>
   </div>
 <p align="center">
-<a href="www.linkedin.com/in/febryan-riyadi-2705n412" target="_blank">
+<a href="www.linkedin.com/in/febryan-riyadi/" target="_blank">
   <img align="center" alt="Sulthan Rafli | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/febryan_4123/" target="_blank">
