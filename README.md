@@ -7,9 +7,7 @@
 - 🎓 &nbsp; 6th Semester Computer Science Student at BINUS UNIVERSITY.
 - 💼 &nbsp; Front-End Developer intern at PERIKSA.ID
 
-
 <br>
-
 
 ### 💻 Tech Stack
 
@@ -46,40 +44,35 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25">
 </p>
+
 <br>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
-  <br>
-  
+<br>
+
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Brazer27&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
+<br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Brazer27&theme=dark&hide_border=true" />
 
-
-  
 </td>
 
-<td width="50%" align="center">
-
+  <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Brazer27&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
+
 <br>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
                                                                                     
-
 <br>
   <p align="center">
   <div align=center>
