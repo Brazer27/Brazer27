@@ -39,7 +39,7 @@
 ## 📌 GitHub Contribution Chart
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Brazer27&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brazer27&theme=github-dark" />
 </p>
 
 ---
