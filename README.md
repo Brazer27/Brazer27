@@ -7,6 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 6th Semester Computer Science Student at **BINUS UNIVERSITY**
+- 🔧 Specializing in **Software Engineering** at **BINUS UNIVERSITY**
 - 💼 Front-End Developer intern at **PERIKSA.ID**
 - ⚡ Passionate about **Web Development**, **UI/UX**, and **Open Source**
 
