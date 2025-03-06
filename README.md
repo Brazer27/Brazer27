@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" /> <br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular" /> <br>
   <img src="https://skillicons.dev/icons?i=nodejs,java,php,python" /> <br>
-  <img src="https://skillicons.dev/icons?i=mysql,go,dotnet,cpp,scss,blade" />
+  <img src="https://skillicons.dev/icons?i=mysql,go,dotnet,cpp,scss,blade,bootstrap" />
 </p>
 
 ---
