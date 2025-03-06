@@ -36,14 +36,6 @@
 
 ---
 
-## 📌 GitHub Contribution Chart
-
-<p align="center">
-  <img src="https://github.com/Brazer27/Brazer27/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Brazer27&theme=radical&margin-h=15&margin-w=5&no-bg=true" />
