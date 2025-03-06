@@ -36,6 +36,14 @@
 
 ---
 
+## 📌 GitHub Contribution Chart
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brazer27&theme=radical" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Brazer27&theme=radical&margin-h=15&margin-w=5&no-bg=true" />
