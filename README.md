@@ -9,7 +9,6 @@
 - 🎓 6th Semester Computer Science Student at **BINUS UNIVERSITY**
 - 💼 Front-End Developer intern at **PERIKSA.ID**
 - ⚡ Passionate about **Web Development**, **UI/UX**, and **Open Source**
-- 🌱 Currently learning **Next.js** and **Tailwind CSS**
 
 ---
 
