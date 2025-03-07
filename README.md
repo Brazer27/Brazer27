@@ -65,4 +65,4 @@
 
 ---
 
-<p align="center">✨ Crafted with ❤️ by <b>Febryan Riyadi</b> ✨</p>
+<p align="center">✨ Crafted by <b>Febryan Riyadi</b> ✨</p>
