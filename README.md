@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brazer27&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Brazer27/Brazer27/blob/main/github-metrics.svg" /></p>
-
 ---
 
 ## 🏆 GitHub Trophies
